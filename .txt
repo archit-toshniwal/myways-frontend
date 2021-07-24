@@ -1,1 +1,7 @@
 
+React is used in front end part
+
+packages used:
+
+external packages:
+react-router
